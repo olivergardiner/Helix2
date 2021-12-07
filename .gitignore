@@ -10,6 +10,11 @@ desktop.ini
 *.mop
 *Report).txt
 
+# Exported images and docs
+*.bmp
+*.png
+*.pdf
+
 # Production files
 *.gmo
 *.gbp
