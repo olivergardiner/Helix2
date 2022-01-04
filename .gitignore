@@ -16,6 +16,7 @@ desktop.ini
 *.pdf
 
 # Production files
+*.gbr
 *.gmo
 *.gbp
 *.gbs
